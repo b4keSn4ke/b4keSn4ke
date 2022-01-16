@@ -1,7 +1,7 @@
 <p align="center">
 
 <a href="https://github.com/b4keSn4ke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b4keSn4ke&show_icons=true&theme=merko&include_all_commits=true&hide=contribs&count_private=true&line_height=32" alt="b4keSn4ke's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=b4keSn4ke&show_icons=true&theme=merko&include_all_commits=true&&count_private=true&line_height=32" alt="b4keSn4ke's GitHub Stats" />
 </a>
 
 <a href="https://github.com/b4keSn4ke">
